@@ -2,4 +2,4 @@
 
 #### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+https://vercel.com/tesleemofx/react-reviews/8dsArbvamZeFWPtcZsBKWCPhp2rf
